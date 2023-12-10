@@ -1,0 +1,13 @@
+body {
+background-color: #F7F8FC;
+}
+
+.encabezado {
+  background-color: #FA7435;
+  color: white;
+  padding: 40px;
+  border-radius: 10px;
+}
+#derechas{
+  text-align: right;
+}
